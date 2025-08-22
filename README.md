@@ -1,4 +1,4 @@
-# Student Score Prediction (ML Internship Task)
+# Student Score Prediction (Machine Learning)
 
 Predict students **Exam Score** from study habits and related factors using **Linear Regression** and **Polynomial Regression**.Includes clean EDA, preprocessing pipelines, model evaluation, feature subset experiments, and a saved, deployable pipeline.
 
@@ -87,7 +87,11 @@ Quick Start (Google Colab)
 Local Setup (Optional)
 ----------------------
 
-`   git clone https://github.com//.git  cd   python -m venv .venv  # Windows: .venv\Scripts\activate  # macOS/Linux: source .venv/bin/activate  pip install -r requirements.txt   `
+```
+    git clone https://github.com//.git  
+    cd   python -m venv .venv  # Windows: .venv\Scripts\activate  # macOS/Linux: source .venv/bin/activate  
+    pip install -r requirements.txt
+```
 
 Place your CSV under data and update CSV_PATH in the notebook or a script.
 
